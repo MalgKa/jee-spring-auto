@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Getter
+    //konstruktor z lomboka
 @RequiredArgsConstructor
 public class PersonService {
     //   1 sposób bez lomboka
